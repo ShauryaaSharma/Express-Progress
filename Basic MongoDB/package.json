@@ -1,0 +1,18 @@
+{
+  "name": "basic-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connectionCheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4",
+    "nodemon": "^3.1.14"
+  }
+}
